@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🌱 I'm currently learning backend development (mostly focued on Java)
+🌱 I'm currently learning backend development (mostly focused on Java)
 
 🔭 I’m currently working on some courses and personal projects to hone my skills
 
