@@ -1,11 +1,12 @@
-## Hi there 👋
+# Hello World! 👋
 
-🌱 I'm currently learning backend development (mostly focused on Java)
+✍️ This is where you can find my [portfolio].<br>🌱 I’m currently learning Spring Boot through Hyperskill.<br>👯 I’m looking to collaborate on open source.<br>💬 Ask me about... Anything.<br>⚡ Fun fact: I dream in code.
 
-🔭 I’m currently working on some courses and personal projects to hone my skills
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
 
-👯 I’m looking to collaborate on open-source projects to gain experience, learn, and of course to help out!
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kwnna15&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kwnna15&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<br>
-<!--Most Used Languages -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kwnna15&show_icons=true&locale=en&layout=compact" alt="oraliahdz" /></p>
+[portfolio]: https://github.com/kwnna15?tab=repositories
